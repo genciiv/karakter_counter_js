@@ -1,0 +1,1 @@
+# karakter_counter_js
